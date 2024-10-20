@@ -27,3 +27,6 @@ This application is a robust voice assistant designed to run on the local machin
    7. And many more like Pipes, Eel, PyWhatkit, PyAudio, Pyautogui, multiprocessing, subprocess, etc
 4. VSCode for development requirements
 5. Webcam and Windows OS for hardware requirements
+
+![Screenshot (189)](https://github.com/user-attachments/assets/eaddc716-9c72-412d-ba1a-553be4f4fe15)
+
