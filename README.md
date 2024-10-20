@@ -28,5 +28,7 @@ This application is a robust voice assistant designed to run on the local machin
 4. VSCode for development requirements
 5. Webcam and Windows OS for hardware requirements
 
-![Screenshot (189)](https://github.com/user-attachments/assets/eaddc716-9c72-412d-ba1a-553be4f4fe15)
+![Screenshot (189)](https://github.com/user-attachments/assets/eaddc716-9c72-412d-ba1a-553be4f4fe15) ![Screenshot (187)](https://github.com/user-attachments/assets/c5128626-fe82-4495-a321-41ea0cabdf21) ![Screenshot (185)](https://github.com/user-attachments/assets/3f66dbd3-d417-467b-b41f-66deb6e42bd0)
+
+
 
