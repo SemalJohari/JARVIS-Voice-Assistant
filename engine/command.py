@@ -50,6 +50,12 @@ def allCommands(message=1):
     else:
         query = message
         eel.senderText(query)
+
+    if "jarvis stop" in query or "stop" in query:
+        eel.DisplayMessage("Stopping all operations. Goodbye!")
+        speak("Stopping all operations. Goodbye!")
+        os._exit(0)
+        
     try:
 
         if "open" in query:
