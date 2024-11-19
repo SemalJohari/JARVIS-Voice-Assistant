@@ -41,14 +41,8 @@ This application is a robust voice assistant designed to run on the local machin
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eaddc716-9c72-412d-ba1a-553be4f4fe15" alt="Screenshot (189)" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5128626-fe82-4495-a321-41ea0cabdf21" alt="Screenshot (187)" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3f66dbd3-d417-467b-b41f-66deb6e42bd0" alt="Screenshot (185)" width="500"/>
+   <img src="https://github.com/user-attachments/assets/c5128626-fe82-4495-a321-41ea0cabdf21" alt="Screenshot (187)" width="500"/>
+   <img src="https://github.com/user-attachments/assets/3f66dbd3-d417-467b-b41f-66deb6e42bd0" alt="Screenshot (185)" width="500"/>
 </p>
 
 ## Installation
